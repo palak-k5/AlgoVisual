@@ -1,1 +1,3 @@
 # AlgoVisual
+
+Path finding Visualizer
